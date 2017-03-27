@@ -1,4 +1,2 @@
 # client-server
-adsfas
-adfdas
 
